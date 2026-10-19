@@ -1,4 +1,4 @@
-# Auspify Technologies — Data Analysis Using Python Internship
+# Netflix Data Analysis Using Python Internship
 
 **Intern:** Yash Lawaniya  
 **Internship Period:** 29 September 2026 – 29 October 2026  
